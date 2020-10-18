@@ -120,4 +120,12 @@
     <java-symbol type="string" name="config_pocketJudgeVendorSensorName" />
 >>>>>>> dc588a220701 ([SQUASH]: Add Pocket Mode)
 
+    <!-- Advanced reboot -->
+    <java-symbol type="string" name="reboot_to_recovery_title" />
+    <java-symbol type="string" name="reboot_to_recovery_message" />
+    <java-symbol type="string" name="reboot_to_bootloader_title" />
+    <java-symbol type="string" name="reboot_to_bootloader_message" />
+    <java-symbol type="string" name="reboot_title" />
+    <java-symbol type="string" name="reboot_message" />
+
 </resources>
